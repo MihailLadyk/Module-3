@@ -29,6 +29,8 @@ a {
 
   margin-right: 113px;
   width: 113px;
+  margin-top: 80px;
+  margin-bottom: 100px;
 }
 
 .nav-Item:nth-child(4) {
@@ -48,7 +50,14 @@ a {
 
   color: #777777;
 }
-.main-list
+main-list__item {
+  display: inline-block;
+  width: 420px;
+  height: 500px;
+  margin-right: 50px;
+
+
+}
 
 .nav-link:hover {
   color: #03a9f3;
