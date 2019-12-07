@@ -12,6 +12,7 @@ a {
 }
 .nav-list {
 
+
   text-align: center;
 }
 
@@ -93,12 +94,15 @@ main-list__item {
 }
 
 .article-type {
+  margin-top: 35px;
+  margin-bottom: 35px;
 
   width: 361px;
   height: 25px font-size: 14px;
   color: #b4ad9e;
   font-family: 'Ubuntu', sans-serif;
   font-weight: 300;
+  m
 }
 
 .article-text {
@@ -110,6 +114,7 @@ main-list__item {
   color: #626262;
   font-family: 'Playfair Display', serif;
   font-weight: 400;
+ 
 }
 .main-btn{
 
@@ -124,4 +129,8 @@ font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 margin-bottom: 50px;
+ }
+ .main-section__image{
+margin-top: 100px;
+
  }
